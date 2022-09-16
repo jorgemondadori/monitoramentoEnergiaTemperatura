@@ -7,10 +7,10 @@
 
 
 
-const char* ssid     = "mondadori24";
-const char* password = "menon0811";
+const char* ssid     = "xxxxx";
+const char* password = "xxxxx";
 
-const char* server = "192.168.0.104";
+const char* server = "xxx.xxx.xxx.xxx";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
